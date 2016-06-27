@@ -1,0 +1,15 @@
+Number of Nodes: 3898
+Number of Edges: 1953
+Average Clustering Coefficient: 0.0360069565072
+Number of Triangles: 479
+Number of Alone Nodes: 2674
+Number of Connected Components: 2754
+Number of Nodes (Largest Connected Component): 1049
+Number of Edges (Largest Connected Component): 1855
+Average Path Length (Largest Connected Component): 5.46310553854
+Node Ratio (2nd Largest Connected Component): 0.00381315538608
+Edge Ratio (2nd Largest Connected Component): 0.00161725067385
+Diameter: 14
+Degree Centrality: [(u'SpKVX3rt892E-BrL-yeqiw', 0.011034128817038748), (u'1ygvIoovV-yjIWqc0_JW7A', 0.006671798819604825), (u'rpOyqD_893cqmDAtJLbdog', 0.006415191172696947), (u'wtsl05RJj5f6YBDQPEwP2w', 0.006415191172696947), (u'Q9SKKZgbTMf5fXTQerFdqw', 0.006158583525789069), (u'oJk4au1iKQvaBnuta6lQhw', 0.006158583525789069), (u'HyrcAxselbPZbxpVH3Hpzw', 0.0056453682319733125), (u'u3xXsUp-01Tw6IF5eqHbbA', 0.0056453682319733125), (u'W4ojW7f30haCertr4CzFJw', 0.005388760585065435), (u'7zSppEZd2C6ASpNeBebxAA', 0.005132152938157557)]
+Closeness Centrality: [(u'SpKVX3rt892E-BrL-yeqiw', 0.0746578026568238), (u'wXUGRiQf9R3ypeOB6B3pSw', 0.07299487309751616), (u'rpOyqD_893cqmDAtJLbdog', 0.07149497844482747), (u'urDog6OhPoNKPJFUDob7AA', 0.07054648436283101), (u'HANb8-8InWnju-XzBQQSBw', 0.07051118464586187), (u'-C93MHl3n-O_5KU_zGjEgQ', 0.07009032704041529), (u'04-E5-69Se-vW8heDXI_gA', 0.0700032799377819), (u'u3xXsUp-01Tw6IF5eqHbbA', 0.06892472610161651), (u'OXWWC30x-1Ee0B6hXLLZfw', 0.06887419477749508), (u'vLFk6nslFe35NKvlU2Tz9Q', 0.06885736746384312)]
+Betweenness Centrality: [(u'SpKVX3rt892E-BrL-yeqiw', 0.009517064733051406), (u'rpOyqD_893cqmDAtJLbdog', 0.006083508689314463), (u'oJk4au1iKQvaBnuta6lQhw', 0.006058324727423077), (u'wtsl05RJj5f6YBDQPEwP2w', 0.00539861042895961), (u'7zSppEZd2C6ASpNeBebxAA', 0.005288135828096668), (u'W4ojW7f30haCertr4CzFJw', 0.005270076494635967), (u'wXUGRiQf9R3ypeOB6B3pSw', 0.004943632635727906), (u'NbvKwZEmGW-6NTEVrfZHPQ', 0.004582816992870917), (u'1ygvIoovV-yjIWqc0_JW7A', 0.00424626194741306), (u'HANb8-8InWnju-XzBQQSBw', 0.0034630244798847056)]

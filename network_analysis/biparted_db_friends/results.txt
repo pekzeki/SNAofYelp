@@ -1,0 +1,15 @@
+Number of Nodes: 4547
+Number of Edges: 11779
+Average Clustering Coefficient: 0.0
+Number of Triangles: 0
+Number of Alone Nodes: 0
+Number of Connected Components: 11
+Number of Nodes (Largest Connected Component): 4504
+Number of Edges (Largest Connected Component): 11746
+Average Path Length (Largest Connected Component): 4.2668263589
+Node Ratio (2nd Largest Connected Component): 0.00177619893428
+Edge Ratio (2nd Largest Connected Component): 0.000595947556615
+Diameter: 12
+Degree Centrality: [(u'_rrWTz0W1K_eWafh-8r3fA', 0.08930928288605368), (u'ivZo1goh7HXdep03NfA7Cg', 0.04575450945886494), (u'sBw0ZgTVeRgdOA3sfGIcwQ', 0.04267487901451826), (u'zMN8UGd1zDEreT58OCdnyg', 0.0420149582050154), (u'wO8c-FbduauxCGiEHchGRA', 0.035855697316322044), (u'AB5RgQ0ZnMThdqgFS3cPuw', 0.03409590849098108), (u'rzH3NU9teI9WVKt-hBsJjg', 0.032996040475142985), (u'r2pKiQ9LLaaVNNvBDfPd2w', 0.032776066871975366), (u'ciRNik0_EdguibEypTspFA', 0.032116146062472505), (u'JCqFWCn31OMSk-vqF5aYNQ', 0.026616805983282008)]
+Closeness Centrality: [(u'_rrWTz0W1K_eWafh-8r3fA', 0.34887811741824454), (u'SpKVX3rt892E-BrL-yeqiw', 0.3378840035749001), (u'ciRNik0_EdguibEypTspFA', 0.32901133961733847), (u'wO8c-FbduauxCGiEHchGRA', 0.3286234974723537), (u'zMN8UGd1zDEreT58OCdnyg', 0.32756163113698), (u'NGX1PZwHET_oQOT7vkkxag', 0.32712920654141964), (u'sBw0ZgTVeRgdOA3sfGIcwQ', 0.3242752985236101), (u'VFO8RtZQOGOUpOxbVpMNRA', 0.3228669367493491), (u'r2pKiQ9LLaaVNNvBDfPd2w', 0.3212392316306991), (u'ivZo1goh7HXdep03NfA7Cg', 0.32119296688933946)]
+Betweenness Centrality: [(u'_rrWTz0W1K_eWafh-8r3fA', 0.13323367652266635), (u'ivZo1goh7HXdep03NfA7Cg', 0.05337598479650155), (u'zMN8UGd1zDEreT58OCdnyg', 0.05289188774661463), (u'sBw0ZgTVeRgdOA3sfGIcwQ', 0.04984447994670147), (u'SpKVX3rt892E-BrL-yeqiw', 0.04844443279667537), (u'NGX1PZwHET_oQOT7vkkxag', 0.03963991882260291), (u'wO8c-FbduauxCGiEHchGRA', 0.03944401763486213), (u'ciRNik0_EdguibEypTspFA', 0.03884112324962505), (u'rzH3NU9teI9WVKt-hBsJjg', 0.03758058139983399), (u'AB5RgQ0ZnMThdqgFS3cPuw', 0.03570748328564706)]
