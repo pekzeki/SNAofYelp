@@ -19,11 +19,18 @@ Basic Setup
 3. Download and install the MongoDB.
 4. Create a database called yelp in the MongoDB.
 5. Import the dataset to yelp database.
-- mongoimport --db yelp --collection business yelp_academic_dataset_business.json
-- mongoimport --db yelp --collection review yelp_academic_dataset_review.json
-- mongoimport --db yelp --collection user yelp_academic_dataset_user.json
+```sh
+$ mongoimport --db yelp --collection business yelp_academic_dataset_business.json
+$ mongoimport --db yelp --collection review yelp_academic_dataset_review.json
+$ mongoimport --db yelp --collection user yelp_academic_dataset_user.json
+```
 6. Install python packages.
-- pip install pymongo
-- pip install networkx
+```sh
+$ pip install pymongo
+$ pip install networkx
+```
 7. Run python script that we have provided to filter the dataset.
-- python mongo_filter.py
+```sh
+$ python mongo_filter.py
+$ pip install networkx
+```
