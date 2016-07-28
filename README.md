@@ -14,22 +14,22 @@ Visualization, Gephi.
 
 Basic Setup
 
-1. Download the yelp dataset or use the dataset that we provided with the project.
-2. Extract the tar file to a directory.
-3. Download and install the MongoDB.
-4. Create a database called yelp in the MongoDB.
-5. Import the dataset to yelp database.
+- Download the yelp dataset or use the dataset that we provided with the project.
+- Extract the tar file to a directory.
+- Download and install the MongoDB.
+- Create a database called yelp in the MongoDB.
+- Import the dataset to yelp database.
 ```sh
 $ mongoimport --db yelp --collection business yelp_academic_dataset_business.json
 $ mongoimport --db yelp --collection review yelp_academic_dataset_review.json
 $ mongoimport --db yelp --collection user yelp_academic_dataset_user.json
 ```
-6. Install python packages.
+- Install python packages.
 ```sh
 $ pip install pymongo
 $ pip install networkx
 ```
-7. Run python script that we have provided to filter the dataset.
+- Run python script that we have provided to filter the dataset.
 ```sh
 $ python mongo_filter.py
 $ pip install networkx
